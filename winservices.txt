@@ -2,11 +2,15 @@ echo
 discard
 systat
 daytime
+cisco-uds
+cuplogin
+autodiscover
 qotd
 chargen
 ftp-data
 ftp
 ssh
+sip
 telnet
 smtp
 time
@@ -50,6 +54,7 @@ ipx
 rtsps
 mftp
 ldap
+minecraft
 https
 microsoft-ds
 kpasswd
